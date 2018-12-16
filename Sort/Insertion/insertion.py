@@ -1,3 +1,5 @@
+# Reference: http://www.algolist.net/Algorithms/Sorting/Insertion_sort
+#
 def insert(sorted_list, right, value):
     """
         sorted_list: sorted list
