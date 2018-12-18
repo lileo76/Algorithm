@@ -1,5 +1,5 @@
 """
-This is not bubble sort
+This is not bubble sort, it's a likely selection sort
 def bubble_sort(arr):
 	size = len(arr)
 	for i in xrange(size-1):
